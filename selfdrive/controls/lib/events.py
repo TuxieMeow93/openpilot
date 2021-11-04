@@ -24,7 +24,7 @@ class Priority(IntEnum):
   HIGHEST = 5
 
 
-# Event types
+# Event type
 class ET:
   ENABLE = 'enable'
   PRE_ENABLE = 'preEnable'
