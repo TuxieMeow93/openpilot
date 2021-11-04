@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/37757984/127420744-89ca219c-8f8e-46d3-bccf-c1cb53b81bb1.png)
+NOTE: This is a fork of Openpilot 0.8.9 as of 11/4/2021. It has been modified to inhibit driver monitoring and function as a fully offline device.
 
 Table of Contents
 =======================
