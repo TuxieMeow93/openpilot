@@ -146,7 +146,7 @@ class Alert:
 class NoEntryAlert(Alert):
   def __init__(self, alert_text_2, audible_alert=AudibleAlert.chimeError,
                visual_alert=VisualAlert.none, duration_hud_alert=2.):
-    super().__init__("openpilot Unavailable", alert_text_2, AlertStatus.normal,
+    super().__init__("Kittydrive Unavailable", alert_text_2, AlertStatus.normal,
                      AlertSize.mid, Priority.LOW, visual_alert,
                      audible_alert, .4, duration_hud_alert, 3.)
 
